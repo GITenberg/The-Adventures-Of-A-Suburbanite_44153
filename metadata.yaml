@@ -1,0 +1,36 @@
+_repo: The-Adventures-Of-A-Suburbanite_44153
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Phelan, A. B.
+    gutenberg_agent_id: '42608'
+    url: http://www.gutenberg.org/2009/agents/42608
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Ellis Parker
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '585'
+    url: http://www.gutenberg.org/2009/agents/585
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
+description: ''
+gutenberg_issued: '2013-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Suburban life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Automobiles -- Fiction'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+title: The Adventures of a Suburbanite
+url: http://www.gutenberg.org/ebooks/44153
