@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/585
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44153#The-Adventures-Of-A-Suburbanite
 gutenberg_issued: '2013-11-10'
 gutenberg_type: Text
 identifiers:
